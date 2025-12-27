@@ -7,7 +7,7 @@
       "description": "Carne 115g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/classic.webp"
+      "image": "/img/burger/classic.webp"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "description": "Carne 115g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/cheese.webp"
+      "image": "/img/burger/cheese.webp"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "description": "Carne 115g, cebolla pluma, queso cheddar, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/oklahoma.webp"
+      "image": "/img/burger/oklahoma.webp"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "Carne 115g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/smoked.webp"
+      "image": "/img/burger/smoked.webp"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "Carne 115g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/caramelizada.webp"
+      "image": "/img/burger/caramelizada.webp"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "description": "Carne 115g, queso mantecoso, champiñon, salsa de ajo, palta.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/mushroom.webp"
+      "image": "/img/burger/mushroom.webp"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "description": "Carne 115g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/sweetrelish.webp"
+      "image": "/img/burger/sweetrelish.webp"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "description": "Carne 115g, queso cheddar, cebolla crispy, tocino, pepinillo, salsa BBQ.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/bbq.webp"
+      "image": "/img/burger/bbq.webp"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "description": "Carne 115g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/blue.webp"
+      "image": "/img/burger/blue.webp"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "description": "Carne 115g, queso cheddar.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/playqueso.webp"
+      "image": "/img/burger/playqueso.webp"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "description": "Carne 115g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/bigfriend.webp"
+      "image": "/img/burger/bigfriend.webp"
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "description": "Carne 115g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
       "accompaniment": ["Papas fritas"],
       "price": 8900,
-      "image": "/src/assets/img/burger/mexican.webp"
+      "image": "/img/burger/mexican.webp"
     }
   ],
   "bebidas": [
@@ -117,7 +117,7 @@
       "description": "Coca-Cola en lata de 350cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/cocacola350.webp"
+      "image": "/img/bebidas/cocacola350.webp"
     },
     {
       "id": 102,
@@ -126,7 +126,7 @@
       "description": "Coca-Cola Zero en lata de 350cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/cocacolazero350.webp"
+      "image": "/img/bebidas/cocacolazero350.webp"
     },
     {
       "id": 103,
@@ -135,7 +135,7 @@
       "description": "Sprite en lata de 350cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/sprite350.webp"
+      "image": "/img/bebidas/sprite350.webp"
     },
     {
       "id": 104,
@@ -144,7 +144,7 @@
       "description": "Cachantún con gas de 600cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/cachantun600.webp"
+      "image": "/img/bebidas/cachantun600.webp"
     },
     {
       "id": 105,
@@ -153,7 +153,7 @@
       "description": "Cachantún sin gas de 600cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/cachantunsingas600.webp"
+      "image": "/img/bebidas/cachantunsingas600.webp"
     },
     {
       "id": 106,
@@ -162,7 +162,7 @@
       "description": "Redbull normal de 250cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/redbull250.webp"
+      "image": "/img/bebidas/redbull250.webp"
     },
     {
       "id": 107,
@@ -171,7 +171,7 @@
       "description": "Redbull Zero de 250cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/redbullzero250.webp"
+      "image": "/img/bebidas/redbullzero250.webp"
     },
     {
       "id": 108,
@@ -180,7 +180,7 @@
       "description": "Redbull Durazno de 250cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/redbulldurazno250.webp"
+      "image": "/img/bebidas/redbulldurazno250.webp"
     },
     {
       "id": 109,
@@ -189,7 +189,7 @@
       "description": "Redbull Pomelo de 250cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/redbullpomelo250.webp"
+      "image": "/img/bebidas/redbullpomelo250.webp"
     },
     {
       "id": 110,
@@ -198,7 +198,7 @@
       "description": "Jugo Watts Selección de 350cc.",
       "accompaniment": [],
       "price": 1800,
-      "image": "/src/assets/img/bebidas/watts350.webp"
+      "image": "/img/bebidas/watts350.webp"
     }
     
   ],
@@ -210,7 +210,7 @@
       "description": "Papas fritas, carne, queso cheddar, salsa mil isla, cebollín.",
       "accompaniment": [],
       "price": 5900,
-      "image": "/src/assets/img/picar/papas1.webp"
+      "image": "/img/picar/papas1.webp"
     },
     {
       "id": 202,
@@ -219,7 +219,7 @@
       "description": "Pollo frito con ketchup.",
       "accompaniment": [],
       "price": 5900,
-      "image": "/src/assets/img/picar/pollo.webp"
+      "image": "/img/picar/pollo.webp"
     },
     {
       "id": 203,
@@ -228,7 +228,7 @@
       "description": "Aros de cebolla con ketchup",
       "accompaniment": [],
       "price": 5900,
-      "image": "/src/assets/img/picar/aros.webp"
+      "image": "/img/picar/aros.webp"
     },
     {
       "id": 204,
@@ -237,7 +237,7 @@
       "description": "Palos de ajo con ketchup",
       "accompaniment": [],
       "price": 5900,
-      "image": "/src/assets/img/picar/palosajo.webp"
+      "image": "/img/picar/palosajo.webp"
     }
   ]
 }
