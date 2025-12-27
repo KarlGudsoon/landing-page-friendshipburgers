@@ -1,0 +1,243 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "category": "Burger",
+      "name": "Classic Burger",
+      "description": "Carne 115g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/classic.webp"
+    },
+    {
+      "id": 2,
+      "category": "Burger",
+      "name": "Cheese Burger",
+      "description": "Carne 115g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/cheese.webp"
+    },
+    {
+      "id": 3,
+      "category": "Burger",
+      "name": "Oklahoma Burger",
+      "description": "Carne 115g, cebolla pluma, queso cheddar, salsa mil isla.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/oklahoma.webp"
+    },
+    {
+      "id": 4,
+      "category": "Burger",
+      "name": "Smoked Burger",
+      "description": "Carne 115g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/smoked.webp"
+    },
+    {
+      "id": 5,
+      "category": "Burger",
+      "name": "Caramelizada Burger",
+      "description": "Carne 115g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/caramelizada.webp"
+    },
+    {
+      "id": 6,
+      "category": "Burger",
+      "name": "Mushroom Burger",
+      "description": "Carne 115g, queso mantecoso, champiñon, salsa de ajo, palta.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/mushroom.webp"
+    },
+    {
+      "id": 7,
+      "category": "Burger",
+      "name": "SweetRelish Burger",
+      "description": "Carne 115g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/sweetrelish.webp"
+    },
+    {
+      "id": 8,
+      "category": "Burger",
+      "name": "BBQ Burger",
+      "description": "Carne 115g, queso cheddar, cebolla crispy, tocino, pepinillo, salsa BBQ.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/bbq.webp"
+    },
+    {
+      "id": 9,
+      "category": "Burger",
+      "name": "Blue Burger",
+      "description": "Carne 115g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/blue.webp"
+    },
+    {
+      "id": 10,
+      "category": "Burger",
+      "name": "Play Queso Burger",
+      "description": "Carne 115g, queso cheddar.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/playqueso.webp"
+    },
+    {
+      "id": 11,
+      "category": "Burger",
+      "name": "Big Friend Burger",
+      "description": "Carne 115g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/bigfriend.webp"
+    },
+    {
+      "id": 12,
+      "category": "Burger",
+      "name": "Mexican Burger",
+      "description": "Carne 115g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
+      "accompaniment": ["Papas fritas"],
+      "price": 8900,
+      "image": "/src/assets/img/burger/mexican.webp"
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 101,
+      "category": "Bebestibles",
+      "name": "Coca-Cola Lata",
+      "description": "Coca-Cola en lata de 350cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/cocacola350.webp"
+    },
+    {
+      "id": 102,
+      "category": "Bebestibles",
+      "name": "Coca-Cola Zero Lata",
+      "description": "Coca-Cola Zero en lata de 350cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/cocacolazero350.webp"
+    },
+    {
+      "id": 103,
+      "category": "Bebestibles",
+      "name": "Sprite Lata",
+      "description": "Sprite en lata de 350cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/sprite350.webp"
+    },
+    {
+      "id": 104,
+      "category": "Bebestibles",
+      "name": "Cachantún con gas",
+      "description": "Cachantún con gas de 600cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/cachantun600.webp"
+    },
+    {
+      "id": 105,
+      "category": "Bebestibles",
+      "name": "Cachantún sin gas",
+      "description": "Cachantún sin gas de 600cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/cachantunsingas600.webp"
+    },
+    {
+      "id": 106,
+      "category": "Bebestibles",
+      "name": "Redbull",
+      "description": "Redbull normal de 250cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/redbull250.webp"
+    },
+    {
+      "id": 107,
+      "category": "Bebestibles",
+      "name": "Redbull Zero",
+      "description": "Redbull Zero de 250cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/redbullzero250.webp"
+    },
+    {
+      "id": 108,
+      "category": "Bebestibles",
+      "name": "Redbull Durazno",
+      "description": "Redbull Durazno de 250cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/redbulldurazno250.webp"
+    },
+    {
+      "id": 109,
+      "category": "Bebestibles",
+      "name": "Redbull Pomelo",
+      "description": "Redbull Pomelo de 250cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/redbullpomelo250.webp"
+    },
+    {
+      "id": 110,
+      "category": "Bebestibles",
+      "name": "Watts Selección",
+      "description": "Jugo Watts Selección de 350cc.",
+      "accompaniment": [],
+      "price": 1800,
+      "image": "/src/assets/img/bebidas/watts350.webp"
+    }
+    
+  ],
+  "picar": [
+    {
+      "id": 201,
+      "category": "Picar",
+      "name": "Papas Supremas",
+      "description": "Papas fritas, carne, queso cheddar, salsa mil isla, cebollín.",
+      "accompaniment": [],
+      "price": 5900,
+      "image": "/src/assets/img/picar/papas1.webp"
+    },
+    {
+      "id": 202,
+      "category": "Picar",
+      "name": "Chicken Fries",
+      "description": "Pollo frito con ketchup.",
+      "accompaniment": [],
+      "price": 5900,
+      "image": "/src/assets/img/picar/pollo.webp"
+    },
+    {
+      "id": 203,
+      "category": "Picar",
+      "name": "Aros de Cebolla",
+      "description": "Aros de cebolla con ketchup",
+      "accompaniment": [],
+      "price": 5900,
+      "image": "/src/assets/img/picar/aros.webp"
+    },
+    {
+      "id": 204,
+      "category": "Picar",
+      "name": "Palos de Ajo",
+      "description": "Palos de ajo con ketchup",
+      "accompaniment": [],
+      "price": 5900,
+      "image": "/src/assets/img/picar/palosajo.webp"
+    }
+  ]
+}
