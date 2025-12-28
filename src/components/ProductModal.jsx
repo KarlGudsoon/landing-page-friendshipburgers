@@ -52,7 +52,7 @@ export default function ProductModal({ product, onClose }) {
           className="w-full h-84 object-cover rounded-lg"
         />
         <div className="p-6">
-          <h2 className="text-3xl font-bold mt-4 text-black font-primary">
+          <h2 className="text-3xl font-bold text-black font-primary">
             {product.name}
           </h2>
 
