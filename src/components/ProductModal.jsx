@@ -19,8 +19,11 @@ export default function ProductModal({ product, onClose }) {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center h-full pb-safe">
-      <div className="absolute  inset-0 bg-black/60" onClick={onClose} />
+    <div className="fixed inset-0 z-50 overflow-hidden">
+      <div
+        className="fixed inset-0 h-[100dvh] bg-black/60 backdrop-blur-md"
+        onClick={onClose}
+      />
 
       <div className="modal animate-modal-in relative w-full bg-secondary rounded-2xl overflow-y-auto max-w-md mx-4 border-2 border-accent/50  shadow-secondary max-h-[90dvh] pb-safe">
         <button
