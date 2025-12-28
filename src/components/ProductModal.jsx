@@ -19,7 +19,7 @@ export default function ProductModal({ product, onClose }) {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center">
+    <div className="fixed inset-0 z-50 flex items-center justify-center h-dvh">
       <div className="absolute inset-0 bg-black/60" onClick={onClose} />
 
       <div
