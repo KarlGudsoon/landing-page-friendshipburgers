@@ -22,23 +22,7 @@ export default function ProductModal({ product, onClose }) {
     <div className="fixed inset-0 z-50 flex items-center justify-center h-dvh">
       <div className="absolute inset-0 bg-black/60" onClick={onClose} />
 
-      <div
-        className="
-                modal
-                animate-modal-in
-                relative
-                w-full
-                bg-secondary
-                rounded-t-2xl md:rounded-2xl
-                overflow-y-auto
-                md:max-w-md md:mx-4
-                border-2 border-accent/50
-                shadow-secondary
-                max-h-[90dvh]
-                md:max-h-none
-                pb-safe
-              "
-      >
+      <div className="modal animate-modal-in relative w-full  bg-secondary rounded-t-2xl md:rounded-2xl overflow-y-auto md:max-w-md md:mx-4 border-2 border-accent/50  shadow-secondary max-h-[90dvh] md:max-h-none pb-safe">
         <button
           onClick={onClose}
           className="absolute top-2 right-2 flex justify-center items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-700"

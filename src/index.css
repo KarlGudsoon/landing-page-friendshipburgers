@@ -58,6 +58,10 @@
   animation: modalIn 0.25s ease-out forwards;
 }
 
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
 ::view-transition-old(root),
 ::view-transition-new(root) {
   animation-duration: 300ms;
