@@ -12,16 +12,29 @@ export default function ProductModal({ product, onClose }) {
   }, [onClose]);
 
   useEffect(() => {
-    document.body.style.overflow = "hidden";
+    const scrollY = window.scrollY;
+
+    document.body.style.position = "fixed";
+    document.body.style.top = `-${scrollY}px`;
+    document.body.style.left = "0";
+    document.body.style.right = "0";
+    document.body.style.width = "100%";
+
     return () => {
-      document.body.style.overflow = "auto";
+      document.body.style.position = "";
+      document.body.style.top = "";
+      document.body.style.left = "";
+      document.body.style.right = "";
+      document.body.style.width = "";
+
+      window.scrollTo(0, scrollY);
     };
   }, []);
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center overflow-hidden">
       <div
-        className="fixed inset-0 h-[100dvh] backdrop-blur-md bg-black/60"
+        className="fixed inset-0 h-dvh backdrop-blur-md bg-black/60"
         onClick={onClose}
       />
 
