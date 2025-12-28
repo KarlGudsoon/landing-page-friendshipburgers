@@ -21,7 +21,7 @@ export default function ProductModal({ product, onClose }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center overflow-hidden">
       <div
-        className="absolute inset-0 h-[100dvh] backdrop-blur-md bg-black/60"
+        className="fixed inset-0 h-[100dvh] backdrop-blur-md bg-black/60"
         onClick={onClose}
       />
 
