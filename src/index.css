@@ -62,6 +62,20 @@
   padding-bottom: env(safe-area-inset-bottom);
 }
 
+@keyframes sheetIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.animate-sheet-in {
+  animation: sheetIn 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+
 ::view-transition-old(root),
 ::view-transition-new(root) {
   animation-duration: 300ms;
