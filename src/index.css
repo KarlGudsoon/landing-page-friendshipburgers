@@ -50,7 +50,7 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: var(--color-primary);
-  background-image: url("/src/assets/img/Sin título-1.svg");
+  background-image: url("/img/Sin título-1.svg");
   background-repeat: repeat;
   background-position: center 100px, 50% 50%;
   background-size: 300px 300px;
