@@ -1,22 +1,47 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
+  const base =
+    "relative cursor-pointer transition-all before:absolute before:left-0 before:bottom-0 before:h-0.5 before:scale-y-0 before:w-full before:bg-black before:origin-left before:transition-all";
+
+  const active = "before:scale-y-100";
+
   return (
     <nav className="w-full bg-secondary text-black font-primary">
       <div className="mx-auto px-6 py-4 flex items-center justify-between">
-        <img className="size-24" src="/img/logo-black.png" alt="" />
+        <img className="size-24" src="/img/logo-black.png" alt="Logo" />
+
         <span className="font-bold md:block hidden text-2xl">
           Friendship Burgers
         </span>
-        <ul className="flex gap-6 ">
-          <li className="relative before:absolute before:opacity-0 before:w-full before:h-1 before:bg-black before:bottom-0 before:left-0 hover:before:opacity-100 before:transition-all cursor-pointer">
-            <Link to="/">Home</Link>
+
+        <ul className="flex gap-4 md:gap-6 md:text-xl">
+          <li>
+            <NavLink
+              to="/"
+              end
+              className={({ isActive }) => `${base} ${isActive ? active : ""}`}
+            >
+              Home
+            </NavLink>
           </li>
-          <li className="relative before:absolute before:opacity-0 before:w-full before:h-1 before:bg-black before:bottom-0 before:left-0 hover:before:opacity-100 before:transition-all cursor-pointer">
-            <Link to="/menu">Menu</Link>
+
+          <li>
+            <NavLink
+              to="/menu"
+              className={({ isActive }) => `${base} ${isActive ? active : ""}`}
+            >
+              Menu
+            </NavLink>
           </li>
-          <li className="relative before:absolute before:opacity-0 before:w-full before:h-1 before:bg-black before:bottom-0 before:left-0 hover:before:opacity-100 before:transition-all cursor-pointer">
-            <Link to="/">Contacto</Link>
+
+          <li>
+            <NavLink
+              to="/contacto"
+              className={({ isActive }) => `${base} ${isActive ? active : ""}`}
+            >
+              Contacto
+            </NavLink>
           </li>
         </ul>
       </div>
