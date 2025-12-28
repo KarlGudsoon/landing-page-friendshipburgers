@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="w-full bg-secondary text-black font-primary">
       <div className="mx-auto px-6 py-4 flex items-center justify-between">
-        <img className="size-24" src="/src/assets/img/logo-black.png" alt="" />
+        <img className="size-24" src="/img/logo-black.png" alt="" />
         <span className="font-bold md:block hidden text-2xl">
           Friendship Burgers
         </span>

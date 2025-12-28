@@ -7,9 +7,9 @@ export default function CardMenu({ product, onClick }) {
   return (
     <div
       onClick={onClick}
-      className="z-0 h-auto flex md:h-auto md:flex-col rounded-2xl border overflow-hidden outline-3 outline-transparent transition-all hover:shadow-[rgba(240,201,7,0.35)] hover:outline-[#ffffffeb] hover:scale-x-102 hover:scale-y-102 hover:cursor-pointer bg-secondary border-transparent shadow-lg"
+      className="z-0 flex md:h-auto md:flex-col rounded-2xl border overflow-hidden outline-3 outline-transparent transition-all hover:shadow-[rgba(240,201,7,0.35)] hover:outline-[#ffffffeb] hover:scale-x-102 hover:scale-y-102 hover:cursor-pointer bg-secondary border-transparent shadow-lg"
     >
-      <div className="min-h-48 w-48 md:w-full md:h-48">
+      <div className="min-h-48 w-38 md:w-full md:h-48">
         <img
           className="h-full w-full object-cover"
           src={product.image}

@@ -23,7 +23,7 @@ export default function ProductModal({ product, onClose }) {
     <div className="fixed inset-0 z-50 flex items-end md:items-center justify-center">
       <div className="absolute inset-0 bg-black/60" onClick={onClose} />
 
-      <div className="modal relative bottom-0 h-[90%] w-full md:h-auto bg-secondary rounded-t-2xl md:rounded-2xl overflow-hidden md:max-w-md md:mx-4 transition-all border-2 border-accent/50 shadow-secondary">
+      <div className="modal relative max-h-[90dvh] md:max-h-none pb-safe w-full md:h-auto bg-secondary rounded-t-2xl md:rounded-2xl overflow-hidden md:max-w-md md:mx-4 transition-all border-2 border-accent/50 shadow-secondary">
         <button
           onClick={onClose}
           className="absolute top-2 right-2 flex justify-center items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-700"
