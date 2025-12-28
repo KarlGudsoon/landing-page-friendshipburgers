@@ -43,6 +43,21 @@
   }
 }
 
+@keyframes modalIn {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-modal-in {
+  animation: modalIn 0.25s ease-out forwards;
+}
+
 ::view-transition-old(root),
 ::view-transition-new(root) {
   animation-duration: 300ms;
