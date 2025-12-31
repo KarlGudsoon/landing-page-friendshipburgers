@@ -49,7 +49,7 @@ export default function ProductModal({ product, onClose }) {
       <div className="modal animate-modal-in relative w-full bg-secondary rounded-2xl overflow-y-auto max-w-md mx-4 border-2 border-accent/50  shadow-secondary max-h-[90dvh] pb-safe">
         <button
           onClick={onClose}
-          className="absolute top-2 right-2 flex justify-center items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-700"
+          className="fixed top-2 right-2 flex justify-center items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-600"
         >
           ✕
         </button>
@@ -94,7 +94,7 @@ export default function ProductModal({ product, onClose }) {
                   return (
                     <div
                       key={i}
-                      className="flex justify-between items-center bg-neutral-200 rounded-xl px-4 py-3"
+                      className="flex justify-between items-center bg-neutral-200/35 border border-black/75 shadow-lg rounded-xl px-4 py-3"
                     >
                       <span className="font-bold text-black">
                         {option.name}
