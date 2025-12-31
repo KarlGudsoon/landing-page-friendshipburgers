@@ -6,6 +6,18 @@
       "name": "Classic Burger",
       "description": "Carne 115g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7800,
       "image": "/img/burger/classic.webp"
     },
@@ -15,6 +27,18 @@
       "name": "Cheese Burger",
       "description": "Carne 115g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/cheese.webp"
     },
@@ -24,6 +48,18 @@
       "name": "Oklahoma Burger",
       "description": "Carne 115g, cebolla pluma, queso cheddar, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7800,
       "image": "/img/burger/oklahoma.webp"
     },
@@ -33,6 +69,18 @@
       "name": "Smoked Burger",
       "description": "Carne 115g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/smoked.webp"
     },
@@ -42,6 +90,18 @@
       "name": "Caramelizada Burger",
       "description": "Carne 115g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7800,
       "image": "/img/burger/caramelizada.webp"
     },
@@ -51,6 +111,18 @@
       "name": "Mushroom Burger",
       "description": "Carne 115g, queso mantecoso, champiñon, salsa de ajo, palta.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/mushroom.webp"
     },
@@ -60,6 +132,18 @@
       "name": "SweetRelish Burger",
       "description": "Carne 115g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/sweetrelish.webp"
     },
@@ -69,6 +153,18 @@
       "name": "BBQ Burger",
       "description": "Carne 115g, queso cheddar, cebolla crispy, tocino, pepinillo, salsa BBQ.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/bbq.webp"
     },
@@ -78,6 +174,18 @@
       "name": "Blue Burger",
       "description": "Carne 115g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 8590,
       "image": "/img/burger/blue.webp"
     },
@@ -87,6 +195,18 @@
       "name": "Play Queso Burger",
       "description": "Carne 115g, queso cheddar.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7200,
       "image": "/img/burger/playqueso.webp"
     },
@@ -96,6 +216,18 @@
       "name": "Big Friend Burger",
       "description": "Carne 115g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7800,
       "image": "/img/burger/bigfriend.webp"
     },
@@ -105,6 +237,18 @@
       "name": "Mexican Burger",
       "description": "Carne 115g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
       "accompaniment": ["Papas fritas"],
+      "add": [
+        {
+          "id": "simple",
+          "name": "Burger simple",
+          "price": 0
+        },
+        {
+          "id": "doble",
+          "name": "Burger doble",
+          "price": 2500
+        }
+      ],
       "price": 7800,
       "image": "/img/burger/mexican.webp"
     }
@@ -206,6 +350,15 @@
     {
       "id": 201,
       "category": "Picar",
+      "name": "Papas fritas",
+      "description": "Porción de papas fritas.",
+      "accompaniment": [],
+      "price": 4990,
+      "image": "/img/picar/papas1.webp"
+    },
+    {
+      "id": 202,
+      "category": "Picar",
       "name": "Papas Smash Style",
       "description": "Papas fritas, carne, queso cheddar, salsa mil isla, cebollín.",
       "accompaniment": [],
@@ -213,7 +366,7 @@
       "image": "/img/picar/papas1.webp"
     },
     {
-      "id": 202,
+      "id": 203,
       "category": "Picar",
       "name": "Chicken Fries",
       "description": "Pollo frito con ketchup.",
@@ -222,7 +375,7 @@
       "image": "/img/picar/pollo.webp"
     },
     {
-      "id": 203,
+      "id": 204,
       "category": "Picar",
       "name": "Aros de Cebolla",
       "description": "Aros de cebolla con ketchup",
@@ -231,10 +384,10 @@
       "image": "/img/picar/aros.webp"
     },
     {
-      "id": 204,
+      "id": 205,
       "category": "Picar",
       "name": "Mozarella Stick",
-      "description": "Palos de ajo con ketchup",
+      "description": "Mozarella Stick con ketchup",
       "accompaniment": [],
       "price": 6490,
       "image": "/img/picar/palosajo.webp"

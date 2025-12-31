@@ -1,7 +1,15 @@
-import { useEffect } from "react";
+import { useEffect, useState} from "react";
 
 export default function ProductModal({ product, onClose }) {
   if (!product) return null;
+
+  const [selectedAdd, setSelectedAdd] = useState(product.add?.[0]);
+
+  useEffect(() => {
+  setSelectedAdd(product.add?.[0]);
+  }, [product]);
+
+  const finalPrice = product.price + (selectedAdd?.price || 0);
 
   useEffect(() => {
     const handleEsc = (e) => {
@@ -72,10 +80,39 @@ export default function ProductModal({ product, onClose }) {
               ))}
             </div>
           )}
+          
+          {product.add?.length > 0 && (
+            <div className="mt-4">
+              <h3 className="text-xl font-black text-black mb-2">
+                Opciones de Burger
+              </h3>
 
-          <p className="text-black font-black text-2xl mt-4 ">
-            ${product.price}
-          </p>
+              <div className="flex flex-col gap-2">
+                {product.add.map((option, i) => {
+                  const finalPrice = product.price + option.price;
+
+                  return (
+                    <div
+                      key={i}
+                      className="flex justify-between items-center bg-neutral-200 rounded-xl px-4 py-3"
+                    >
+                      <span className="font-bold text-black">
+                        {option.name}
+                      </span>
+
+                      <span className="font-black text-black">
+                        ${finalPrice.toLocaleString("es-CL")}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+
+
+        
         </div>
       </div>
     </div>
