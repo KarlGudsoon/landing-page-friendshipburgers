@@ -4,7 +4,7 @@
       "id": 1,
       "category": "Burger",
       "name": "Classic Burger",
-      "description": "Carne 115g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
+      "description": "Carne 120g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -15,7 +15,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7800,
@@ -25,7 +25,7 @@
       "id": 2,
       "category": "Burger",
       "name": "Cheese Burger",
-      "description": "Carne 115g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
+      "description": "Carne 120g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -36,7 +36,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -46,7 +46,7 @@
       "id": 3,
       "category": "Burger",
       "name": "Oklahoma Burger",
-      "description": "Carne 115g, cebolla pluma, queso cheddar, salsa mil isla.",
+      "description": "Carne 120g, cebolla pluma, queso cheddar, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -57,7 +57,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7800,
@@ -67,7 +67,7 @@
       "id": 4,
       "category": "Burger",
       "name": "Smoked Burger",
-      "description": "Carne 115g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
+      "description": "Carne 120g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -78,7 +78,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -88,7 +88,7 @@
       "id": 5,
       "category": "Burger",
       "name": "Caramelizada Burger",
-      "description": "Carne 115g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
+      "description": "Carne 120g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -99,7 +99,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7800,
@@ -109,7 +109,7 @@
       "id": 6,
       "category": "Burger",
       "name": "Mushroom Burger",
-      "description": "Carne 115g, queso mantecoso, champiñon, salsa de ajo, palta.",
+      "description": "Carne 120g, queso mantecoso, champiñon, salsa de ajo, palta.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -120,7 +120,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -130,7 +130,7 @@
       "id": 7,
       "category": "Burger",
       "name": "SweetRelish Burger",
-      "description": "Carne 115g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
+      "description": "Carne 120g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -141,7 +141,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -151,7 +151,7 @@
       "id": 8,
       "category": "Burger",
       "name": "BBQ Burger",
-      "description": "Carne 115g, queso cheddar, cebolla crispy, tocino, pepinillo, salsa BBQ.",
+      "description": "Carne 120g, queso cheddar, cebolla crispy, tocino, pepinillo, salsa BBQ.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -162,7 +162,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -172,7 +172,7 @@
       "id": 9,
       "category": "Burger",
       "name": "Blue Burger",
-      "description": "Carne 115g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
+      "description": "Carne 120g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -183,7 +183,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 8590,
@@ -193,7 +193,7 @@
       "id": 10,
       "category": "Burger",
       "name": "Play Queso Burger",
-      "description": "Carne 115g, queso cheddar.",
+      "description": "Carne 120g, queso cheddar.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -204,7 +204,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7200,
@@ -214,7 +214,7 @@
       "id": 11,
       "category": "Burger",
       "name": "Big Friend Burger",
-      "description": "Carne 115g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
+      "description": "Carne 120g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -225,7 +225,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7800,
@@ -235,7 +235,7 @@
       "id": 12,
       "category": "Burger",
       "name": "Mexican Burger",
-      "description": "Carne 115g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
+      "description": "Carne 120g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -246,7 +246,7 @@
         {
           "id": "doble",
           "name": "Doble",
-          "price": 2500
+          "price": 1990
         }
       ],
       "price": 7800,
