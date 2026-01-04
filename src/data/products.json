@@ -130,7 +130,7 @@
       "id": 7,
       "category": "Burger",
       "name": "SweetRelish Burger",
-      "description": "Carne 120g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
+      "description": "Carne 120g, queso cheddar, SweetRelish, cebolla crispy.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
