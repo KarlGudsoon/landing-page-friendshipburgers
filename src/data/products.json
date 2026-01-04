@@ -25,7 +25,7 @@
       "id": 2,
       "category": "Burger",
       "name": "Cheese Burger",
-      "description": "Carne 120g, cebolla blanca, ketuchup, mostaza, queso cheddar, pepinillo.",
+      "description": "Carne 120g, cebolla blanca, ketchup, mostaza, queso cheddar, pepinillo.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
