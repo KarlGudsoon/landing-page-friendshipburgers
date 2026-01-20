@@ -102,7 +102,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 8590,
       "image": "/img/burger/caramelizada.webp"
     },
     {
@@ -193,7 +193,7 @@
       "id": 10,
       "category": "Burger",
       "name": "Play Queso Burger",
-      "description": "Carne 120g, queso cheddar.",
+      "description": "Carne 120g, queso cheddar y Ketchup.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -249,7 +249,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 8590,
       "image": "/img/burger/mexican.webp"
     }
   ],
@@ -260,7 +260,7 @@
       "name": "Coca-Cola Lata",
       "description": "Coca-Cola en lata de 350cc.",
       "accompaniment": [],
-      "price": 1800,
+      "price": 1990,
       "image": "/img/bebidas/cocacola350.webp"
     },
     {
@@ -269,7 +269,7 @@
       "name": "Coca-Cola Zero Lata",
       "description": "Coca-Cola Zero en lata de 350cc.",
       "accompaniment": [],
-      "price": 1800,
+      "price": 1990,
       "image": "/img/bebidas/cocacolazero350.webp"
     },
     {
@@ -278,7 +278,7 @@
       "name": "Sprite Lata",
       "description": "Sprite en lata de 350cc.",
       "accompaniment": [],
-      "price": 1800,
+      "price": 1990,
       "image": "/img/bebidas/sprite350.webp"
     },
     {
@@ -341,7 +341,7 @@
       "name": "Watts Selección",
       "description": "Jugo Watts Selección de 350cc.",
       "accompaniment": [],
-      "price": 1800,
+      "price": 1990,
       "image": "/img/bebidas/watts350.webp"
     }
     
@@ -364,15 +364,6 @@
       "accompaniment": [],
       "price": 7490,
       "image": "/img/picar/papas1.webp"
-    },
-    {
-      "id": 203,
-      "category": "Picar",
-      "name": "Chicken Fries",
-      "description": "Pollo frito con ketchup.",
-      "accompaniment": [],
-      "price": 5900,
-      "image": "/img/picar/pollo.webp"
     },
     {
       "id": 204,
