@@ -4,7 +4,7 @@
       "id": 1,
       "category": "Burger",
       "name": "Classic Burger",
-      "description": "Carne 120g, cebolla rondell, tomate, lechuga, queso cheddar y salsa mil isla.",
+      "description": "Carne 120g, cebolla rondell, tomate, lechuga, queso cheddar y salsa Mil Isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -46,7 +46,7 @@
       "id": 3,
       "category": "Burger",
       "name": "Oklahoma Burger",
-      "description": "Carne 120g, cebolla pluma, queso cheddar, salsa mil isla.",
+      "description": "Carne 120g, cebolla pluma, queso cheddar, salsa Mil Isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -67,7 +67,7 @@
       "id": 4,
       "category": "Burger",
       "name": "Smoked Burger",
-      "description": "Carne 120g, queso cheddar, tocino, pimenton asado, cebolla crispy, salsa smoke.",
+      "description": "Carne 120g, queso cheddar, tocino, pimentón asado, cebolla crispy, salsa Smoke.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -88,7 +88,7 @@
       "id": 5,
       "category": "Burger",
       "name": "Caramelizada Burger",
-      "description": "Carne 120g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa mil isla.",
+      "description": "Carne 120g, queso cheddar, cebolla caramelizada, tocino, pepinillo, salsa Mil Isla.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -109,7 +109,7 @@
       "id": 6,
       "category": "Burger",
       "name": "Mushroom Burger",
-      "description": "Carne 120g, queso mantecoso, champiñon, salsa de ajo, palta.",
+      "description": "Carne 120g, queso mantecoso, champiñón, palta, salsa Alioli,.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -130,7 +130,7 @@
       "id": 7,
       "category": "Burger",
       "name": "SweetRelish Burger",
-      "description": "Carne 120g, queso cheddar, SweetRelish, salsa mil isla, cebolla crispy.",
+      "description": "Carne 120g, queso cheddar, SweetRelish, salsa Mil Isla, cebolla crispy.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -172,7 +172,7 @@
       "id": 9,
       "category": "Burger",
       "name": "Blue Burger",
-      "description": "Carne 120g, queso azul, rucula, salsa de ajo, manzana, tocino, cebolla caramelizada.",
+      "description": "Carne 120g, queso azul, rúcula, salsa de Alioli, manzana, tocino, cebolla caramelizada.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -193,7 +193,7 @@
       "id": 10,
       "category": "Burger",
       "name": "Play Queso Burger",
-      "description": "Carne 120g, queso cheddar y Ketchup.",
+      "description": "Carne 120g, queso cheddar.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -214,7 +214,7 @@
       "id": 11,
       "category": "Burger",
       "name": "Big Friend Burger",
-      "description": "Carne 120g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa BigMac.",
+      "description": "Carne 120g, queso cheddar, cebolla blanca, pepinillo, lechuga, salsa Big Friend.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -235,7 +235,7 @@
       "id": 12,
       "category": "Burger",
       "name": "Mexican Burger",
-      "description": "Carne 120g, queso cheddar, topopos, guacamole, salsa de ajo, ají verde rondell.",
+      "description": "Carne 120g, queso cheddar, topopos, guacamole, ají verde rondell, salsa Alioli.",
       "accompaniment": ["Papas fritas"],
       "add": [
         {
@@ -284,6 +284,24 @@
     {
       "id": 104,
       "category": "Bebestibles",
+      "name": "Sprite Zero Lata",
+      "description": "Sprite Zero en lata de 350cc.",
+      "accompaniment": [],
+      "price": 1990,
+      "image": "/img/bebidas/spritezero350.webp"
+    },
+    {
+      "id": 105,
+      "category": "Bebestibles",
+      "name": "Fanta Lata",
+      "description": "Fanta en lata de 350cc.",
+      "accompaniment": [],
+      "price": 1990,
+      "image": "/img/bebidas/fanta350.webp"
+    },
+    {
+      "id": 106,
+      "category": "Bebestibles",
       "name": "Cachantún con gas",
       "description": "Cachantún con gas de 600cc.",
       "accompaniment": [],
@@ -291,7 +309,7 @@
       "image": "/img/bebidas/cachantun600.webp"
     },
     {
-      "id": 105,
+      "id": 107,
       "category": "Bebestibles",
       "name": "Cachantún sin gas",
       "description": "Cachantún sin gas de 600cc.",
@@ -300,7 +318,7 @@
       "image": "/img/bebidas/cachantunsingas600.webp"
     },
     {
-      "id": 106,
+      "id": 108,
       "category": "Bebestibles",
       "name": "Redbull",
       "description": "Redbull normal de 250cc.",
@@ -309,7 +327,7 @@
       "image": "/img/bebidas/redbull250.webp"
     },
     {
-      "id": 107,
+      "id": 109,
       "category": "Bebestibles",
       "name": "Redbull Zero",
       "description": "Redbull Zero de 250cc.",
@@ -318,7 +336,7 @@
       "image": "/img/bebidas/redbullzero250.webp"
     },
     {
-      "id": 108,
+      "id": 110,
       "category": "Bebestibles",
       "name": "Redbull Durazno",
       "description": "Redbull Durazno de 250cc.",
@@ -327,7 +345,7 @@
       "image": "/img/bebidas/redbulldurazno250.webp"
     },
     {
-      "id": 109,
+      "id": 111,
       "category": "Bebestibles",
       "name": "Redbull Pomelo",
       "description": "Redbull Pomelo de 250cc.",
@@ -336,7 +354,7 @@
       "image": "/img/bebidas/redbullpomelo250.webp"
     },
     {
-      "id": 110,
+      "id": 112,
       "category": "Bebestibles",
       "name": "Watts Selección",
       "description": "Jugo Watts Selección de 350cc.",
@@ -360,16 +378,16 @@
       "id": 202,
       "category": "Picar",
       "name": "Papas Smash Style",
-      "description": "Papas fritas, carne, queso cheddar, salsa mil isla, cebollín.",
+      "description": "Papas fritas, carne, queso cheddar, cebollín, salsa Mil Isla.",
       "accompaniment": [],
       "price": 7490,
-      "image": "/img/picar/papas1.webp"
+      "image": "/img/picar/papas2.webp"
     },
     {
       "id": 204,
       "category": "Picar",
       "name": "Aros de Cebolla",
-      "description": "Aros de cebolla con ketchup",
+      "description": "Aros de cebolla con salsa",
       "accompaniment": [],
       "price": 4490,
       "image": "/img/picar/aros.webp"
@@ -378,10 +396,10 @@
       "id": 205,
       "category": "Picar",
       "name": "Mozarella Stick",
-      "description": "Mozarella Stick con ketchup",
+      "description": "Mozarella Stick con salsa",
       "accompaniment": [],
       "price": 6490,
-      "image": "/img/picar/palosajo.webp"
+      "image": "/img/picar/mozarella.webp"
     }
   ]
 }
