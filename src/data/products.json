@@ -18,7 +18,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 7990,
       "image": "/img/burger/classic.webp"
     },
     {
@@ -39,7 +39,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 7990,
       "image": "/img/burger/cheese.webp"
     },
     {
@@ -60,7 +60,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 7990,
       "image": "/img/burger/oklahoma.webp"
     },
     {
@@ -81,7 +81,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/smoked.webp"
     },
     {
@@ -102,7 +102,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/caramelizada.webp"
     },
     {
@@ -123,7 +123,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/mushroom.webp"
     },
     {
@@ -144,7 +144,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/sweetrelish.webp"
     },
     {
@@ -165,7 +165,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/bbq.webp"
     },
     {
@@ -186,7 +186,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/blue.webp"
     },
     {
@@ -228,7 +228,7 @@
           "price": 1990
         }
       ],
-      "price": 7800,
+      "price": 7990,
       "image": "/img/burger/bigfriend.webp"
     },
     {
@@ -249,7 +249,7 @@
           "price": 1990
         }
       ],
-      "price": 8590,
+      "price": 8890,
       "image": "/img/burger/mexican.webp"
     }
   ],
@@ -362,7 +362,6 @@
       "price": 1990,
       "image": "/img/bebidas/watts350.webp"
     }
-    
   ],
   "picar": [
     {
