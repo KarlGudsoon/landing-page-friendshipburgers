@@ -46,13 +46,15 @@ export default function ProductModal({ product, onClose }) {
         onClick={onClose}
       />
 
-      <div className="modal animate-modal-in relative w-full bg-secondary rounded-2xl overflow-y-auto max-w-md mx-4 border-2 border-accent/50  shadow-secondary max-h-[90dvh] pb-safe">
+      <div className="relative w-full max-w-md mx-4 max-h-[90dvh]">
         <button
-          onClick={onClose}
-          className="fixed top-2 right-2 flex justify-center items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-600"
-        >
-          ✕
-        </button>
+      onClick={onClose}
+      className="absolute top-4 right-8 z-10 flex justify-center shadow-md items-center size-10 font-black text-white hover:scale-102 transition-all cursor-pointer rounded-full bg-red-600"
+    >
+      ✕
+    </button>
+      <div className="modal animate-modal-in w-full h-full bg-secondary rounded-2xl overflow-y-auto border-2 border-accent/50 shadow-secondary max-h-[90dvh] pb-safe">
+        
 
         <img
           src={product.image}
@@ -81,7 +83,7 @@ export default function ProductModal({ product, onClose }) {
             </div>
           )}
           
-          {product.add?.length > 0 && (
+          {product.add?.length > 0 ? (
             <div className="mt-4">
               <h3 className="text-xl font-black text-black mb-2">
                 Opciones de Burger
@@ -108,12 +110,19 @@ export default function ProductModal({ product, onClose }) {
                 })}
               </div>
             </div>
+          ) : (
+            <div className="mt-4 flex justify-center">
+              <p className="text-secondary w-fit font-extrabold rounded-4xl text-3xl px-6 py-2 bg-black ">
+                ${product.price}
+              </p>
+            </div>
           )}
 
 
 
         
         </div>
+      </div>
       </div>
     </div>
   );

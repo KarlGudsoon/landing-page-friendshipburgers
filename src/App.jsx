@@ -3,6 +3,7 @@ import LayoutMain from "./layouts/LayoutMain";
 import LayoutTV from "./layouts/LayoutTV";
 import Home from "./pages/Home";
 import Menu from "./pages/Menu";
+import Contact from "./pages/Contact"
 import VideoOne from "./pages/VideoTv1";
 import VideoTwo from "./pages/VideoTv2";
 
@@ -14,6 +15,7 @@ export default function App() {
           <Route element={<LayoutMain />}>
             <Route path="/" element={<Home />} />
             <Route path="/menu" element={<Menu />} />
+            <Route path="/contacto" element={<Contact />} />
           </Route>
           <Route element={<LayoutTV />}>
             <Route path="/tv1" element={<VideoOne />} />

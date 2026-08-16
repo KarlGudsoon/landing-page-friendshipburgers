@@ -383,6 +383,15 @@
       "image": "/img/picar/papas2.webp"
     },
     {
+      "id": 203,
+      "category": "Picar",
+      "name": "Papas Caramelizadas",
+      "description": "Papas fritas, carne, queso cheddar, cebolla caramelizada, cebollín, salsa Mil Isla.",
+      "accompaniment": [],
+      "price": 8590,
+      "image": "/img/picar/papas2.webp"
+    },
+    {
       "id": 204,
       "category": "Picar",
       "name": "Aros de Cebolla",
